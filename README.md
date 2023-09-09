@@ -2,6 +2,8 @@
 
 This folder contains my NLP projects that solve different in diverse NLP challenges.
 
+### Text generation
+This notebook explores the basic concepts of NLP like **lemmatization**, **tokenization** by **n-gramms**, **deleting stopwords** and **punctuation** - all these steps are used to prepare for model trainig. The model consists of **GRU** blocks that are modified versions of **RNN** blocks. Actually, there more advanced models that are used to generate text, they are done in other notebooks.
 ### Transformer English to French
 In this notebook I solve the wellknown NLP challenge called **machine translation** a subproblem of **sequence-to-sequence**. With the usage of Tensorflow I implement the intitial **Transformer** model, which is widely used in NLP for many challenges. In this case I leverage the model to translate English to French, the redult of translation one can observe in the end of the notebook within the quality-metric **Rouge**. 
 ### BART transfer learning
