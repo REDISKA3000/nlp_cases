@@ -1,5 +1,5 @@
 # Natural Language Process projects
-![image](https://github.com/REDISKA3000/text_generation/blob/01621af44ba94468154e5eeae27971744f97e128/maxresdefault.jpg)
+![alt text](https://github.com/REDISKA3000/text_generation/blob/01621af44ba94468154e5eeae27971744f97e128/maxresdefault.jpg?raw=true)
 This folder contains my NLP projects that solve different in diverse NLP challenges.
 
 ### Text generation
